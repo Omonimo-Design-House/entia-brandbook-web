@@ -47,5 +47,5 @@ export default {
       html: `<div class="content-stretch drop-shadow-[0px_0px_3.9px_rgba(0,0,0,0.25)] flex items-center justify-center px-[22px] py-[10px] relative rounded-[47px] size-full cursor-pointer"><div class="[word-break:break-word] font-['Source_Code_Pro:Bold'] font-bold leading-[0] not-italic relative shrink-0 text-[#000812] text-[13px] text-left tracking-[1.95px] whitespace-nowrap" data-node-id="41:445"><p class="leading-[1.202]">MENÚ</p></div></div>` },
   ],
 
-  favicon: null,
+  favicon: { asset: '15bec320-e462-461e-b84f-bdf9605594bb.svg', touchBackground: '#fff7ed' }, // Entia · Isotipo
 };
