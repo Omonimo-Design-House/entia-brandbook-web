@@ -1,7 +1,7 @@
-# Eterea — Brand guidelines
+# Entia — Brand guidelines
 
 Versión web de la página **01 · Plantilla** de Brandbook — Eterea, diseñada en Figma por Omónimo Design House.
-Publicada en https://omonimo-design-house.github.io/eterea-brandbook-web/ (GitHub Pages sirve la carpeta `docs/`).
+Publicada en https://omonimo-design-house.github.io/entia-brandbook-web/ (GitHub Pages sirve la carpeta `docs/`).
 
 ## Actualizar
 
